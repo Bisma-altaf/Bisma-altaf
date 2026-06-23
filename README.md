@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Bisma Altaf
 **A passionate Frontend developer || from Pakistan**
 
-Email Me 👉 ✉️ **bismaaltaf57gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **bismaaltaf57@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Backend development
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** bismaaltaf57gmail.com
+- 📫 **How to reach me:** bismaaltaf57@gmail.com
 - 😄 **Pronouns:** Bisma Mam
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
